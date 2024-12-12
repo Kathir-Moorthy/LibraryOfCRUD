@@ -16,7 +16,6 @@ A comprehensive guide to mastering MongoDB CRUD operations with clear examples a
   - [Update Operation](#update-operation)
   - [Delete Operation](#delete-operation)
   - [Advanced Query](#advanced-query)
-- [License](#license)
 
 ---
 
